@@ -1,8 +1,6 @@
 # CIRRICULUM-VITAE
 <html lang="en" dir="ltr">
-  <head><center> Tejaswini Sharma Resume</center> </head>
     <meta charset="utf-8">
-
   <body style="background-color: #fbdff0;">
     <p style ="text-align:right"><i>Name:Tejaswini</i><br>
     <p style ="text-align:right">Phone Number:9686705497</p>
