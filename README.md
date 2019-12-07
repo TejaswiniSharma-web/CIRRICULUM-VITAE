@@ -1,5 +1,5 @@
 # CIRRICULUM-VITAE
-<html lang="en" dir="ltr">
+<html>
     <meta charset="utf-8">
   <body style="background-color: #fbdff0;">
     <p style ="text-align:right"><i>Name:Tejaswini</i><br>
@@ -42,6 +42,9 @@
         <li>Mongo Db</li>
         <li>Manual Testing</li>
         <li>Automation Testing</li>
+      </hr>
       </ul>
   </body>
 </html>
+
+
